@@ -1,5 +1,5 @@
 {
-  "name": "react-native-animated-progress-bar",
+  "name": "react-native-simple-animated-progress-bar",
   "version": "1.0.0",
   "description": "Animated progress bar for react-native",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emami7495/react-native-animated-progress-bar.git"
+    "url": "git+https://github.com/emami7495/react-native-simple-animated-progress-bar.git"
   },
   "keywords": [
     "react",
@@ -23,8 +23,8 @@
     "prop-types": "*",
     "react-native": "*"
   },
-  "homepage": "https://github.com/emami7495/react-native-animated-progress-bar",
+  "homepage": "https://github.com/emami7495/react-native-simple-animated-progress-bar",
   "bugs": {
-    "url": "https://github.com/emami7495/react-native-animated-progress-bar/issues"
+    "url": "https://github.com/emami7495/react-native-simple-animated-progress-bar/issues"
   }
 }
