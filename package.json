@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Animated progress bar for react-native",
   "main": "src/index.js",
+  "publishConfig": {
+    "@emami7495:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
