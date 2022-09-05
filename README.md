@@ -30,5 +30,5 @@ import AnimatedProgressBar from 'react-native-simple-animated-progress-bar';
 | `duration`     | number        | 500                        | animation duration in progress changing                                                         |
 | `progress`      | number        | none                        | number between 0 - 1 |
 | `barStyle`      | object or array        | none                        | if you want override progress bar style use this prop  |
-| `rootStyle`      | object or array        | none                        |if you want override progress bar root style use this prop- |
-| `barWidth`      | number        | screen width                        | progress bar width default is screen width if you want change it use this prop |
+| `rootStyle`      | object or array        | none                        | if you want override progress bar root style use this prop |
+| `barWidth`      | number        | screen width                        | if you want change progress bar width use this prop |
