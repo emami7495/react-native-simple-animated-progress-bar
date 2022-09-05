@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-animated-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Animated progress bar for react-native",
   "main": "src/index.js",
   "scripts": {
@@ -19,9 +19,6 @@
     "ios"
   ],
   "dependencies": {
-    "react": "*",
-    "prop-types": "*",
-    "react-native": "*"
   },
   "homepage": "https://github.com/emami7495/react-native-simple-animated-progress-bar",
   "bugs": {
