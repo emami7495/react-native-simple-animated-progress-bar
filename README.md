@@ -2,7 +2,7 @@
 
 simple animated progress bar in react native work on both android & ios
 
-<img width="55%" alt="image" src="https://user-images.githubusercontent.com/23563595/188492330-f2ff2752-ca9a-4dd8-a4ab-79625ce829e0.png">
+<img width="60%" alt="image" src="https://user-images.githubusercontent.com/23563595/188492330-f2ff2752-ca9a-4dd8-a4ab-79625ce829e0.png">
 
 
 ## Install
